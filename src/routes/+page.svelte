@@ -2,10 +2,10 @@
 	import { onMount } from 'svelte';
 	import ModelViewer from '$lib/components/modelList.svelte';
 
-	onMount(() => {});
+	onMount(() => {
+		window.location.href = '/products';
+	});
 </script>
-
-<ModelViewer />
 
 <style>
 </style>
