@@ -51,6 +51,10 @@
 		z-index: 9999;
 	}
 
+	#main-logo a {
+		border: none;
+	}
+
 	#main-logo svg {
 		height: 20vh;
 	}
