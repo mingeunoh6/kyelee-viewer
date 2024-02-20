@@ -1,7 +1,7 @@
 const models = [
 	{
 		name: 'Chair Wings',
-		src: 'models/ChairWings.glb',
+		src: '/models/ChairWings.glb',
 		url: 'https://kyelee-kim.com/product/detail.html?product_no=27&cate_no=1&display_group=2',
 		place: 'floor'
 	},
