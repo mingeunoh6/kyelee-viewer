@@ -105,8 +105,21 @@
 		<div class="border" />
 	{/each}
 </main>
+<footer>
+	<p>© 2024 KYELEEKIM | WAVE COLLECTION WebAR VIEWER | DEV BY OOMG</p>
+</footer>
 
 <style>
+	footer {
+		font-size: 0.6rem;
+		width: 100%;
+		height: 5vh;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: #f5f5f5;
+		margin-top: 20px;
+	}
 	.loading-overlay {
 		position: fixed;
 		top: 0;
